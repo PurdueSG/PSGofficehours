@@ -1,4 +1,9 @@
-﻿namespace TxtBatchprocessing
+﻿/*  2015(c) Socrates Wong
+ *  Permissiable use granted under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International, written permission required for other usage.   
+ * 
+ * 
+ */
+namespace TxtBatchprocessing
 {
     partial class Form1
     {
